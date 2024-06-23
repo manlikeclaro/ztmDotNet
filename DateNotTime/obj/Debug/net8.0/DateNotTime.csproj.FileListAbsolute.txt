@@ -1,0 +1,14 @@
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\bin\Debug\net8.0\DateNotTime.exe
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\bin\Debug\net8.0\DateNotTime.deps.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\bin\Debug\net8.0\DateNotTime.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\bin\Debug\net8.0\DateNotTime.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\bin\Debug\net8.0\DateNotTime.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\refint\DateNotTime.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\DateNotTime.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\DateNotTime\obj\Debug\net8.0\ref\DateNotTime.dll

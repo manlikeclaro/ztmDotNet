@@ -1,0 +1,14 @@
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\bin\Debug\net8.0\Constructors.exe
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\bin\Debug\net8.0\Constructors.deps.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\bin\Debug\net8.0\Constructors.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\bin\Debug\net8.0\Constructors.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\bin\Debug\net8.0\Constructors.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\refint\Constructors.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\Constructors.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Constructors\obj\Debug\net8.0\ref\Constructors.dll

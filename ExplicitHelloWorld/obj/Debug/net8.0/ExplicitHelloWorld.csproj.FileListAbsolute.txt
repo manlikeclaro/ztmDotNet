@@ -1,0 +1,14 @@
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\bin\Debug\net8.0\ExplicitHelloWorld.exe
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\bin\Debug\net8.0\ExplicitHelloWorld.deps.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\bin\Debug\net8.0\ExplicitHelloWorld.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\bin\Debug\net8.0\ExplicitHelloWorld.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\bin\Debug\net8.0\ExplicitHelloWorld.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\refint\ExplicitHelloWorld.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ExplicitHelloWorld.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ExplicitHelloWorld\obj\Debug\net8.0\ref\ExplicitHelloWorld.dll
