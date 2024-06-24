@@ -1,0 +1,15 @@
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\bin\Debug\net8.0\Enumuartions.exe
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\bin\Debug\net8.0\Enumuartions.deps.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\bin\Debug\net8.0\Enumuartions.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\bin\Debug\net8.0\Enumuartions.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\bin\Debug\net8.0\Enumuartions.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.sourcelink.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\refint\Enumuartions.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\Enumuartions.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\Enumuartions\obj\Debug\net8.0\ref\Enumuartions.dll
