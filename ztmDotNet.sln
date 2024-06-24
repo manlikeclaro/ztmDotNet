@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{77FA2A18-750F-4D56-8F2B-80266B865FB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{DD589649-3A87-4E5E-AFCE-77378E73A55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{77FA2A18-750F-4D56-8F2B-80266B865FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FA2A18-750F-4D56-8F2B-80266B865FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FA2A18-750F-4D56-8F2B-80266B865FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD589649-3A87-4E5E-AFCE-77378E73A55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD589649-3A87-4E5E-AFCE-77378E73A55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD589649-3A87-4E5E-AFCE-77378E73A55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD589649-3A87-4E5E-AFCE-77378E73A55B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
