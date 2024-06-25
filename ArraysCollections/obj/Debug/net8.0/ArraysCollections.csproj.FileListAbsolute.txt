@@ -1,0 +1,15 @@
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\bin\Debug\net8.0\ArraysCollections.exe
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\bin\Debug\net8.0\ArraysCollections.deps.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\bin\Debug\net8.0\ArraysCollections.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\bin\Debug\net8.0\ArraysCollections.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\bin\Debug\net8.0\ArraysCollections.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.sourcelink.json
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\refint\ArraysCollections.dll
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.pdb
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ArraysCollections.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\ztmDotNet\ArraysCollections\obj\Debug\net8.0\ref\ArraysCollections.dll
